@@ -1,0 +1,519 @@
+,Endo_id,Influenced secretion,Influenced by receptor,ana. struct of receptor,influence
+0,ENI00017,melanocyte,ENR01126,ENC00020,positive
+1,ENI00018,basophil gonadotroph cell of anterior pituitary FSH,ENR00942,ENC00003,positive
+2,ENI00020,theca cell,ENR00789,ENC00143,positive
+3,ENI00021,theca cell,ENR00789,ENC00143,positive
+4,ENI00022,granulosa cell,ENR00788,ENC00044,positive
+5,ENI00023,Leydig cell of testis,ENR00789,ENC00067,positive
+6,ENI00024,basophil thyrotroph cell of anterior pituitary,ENR00079,ENC00177,positive
+7,ENI00025,thyroid gland,ENR00970,ENC00145,positive
+8,ENI00026,thyroid gland,ENR00970,ENC00145,positive
+9,ENI00027,basophil corticotroph cell of anterior pituitary,ENR00935,ENC00176,positive
+10,ENI00028,cell of adrenal gland zona fasciculata,ENR00761,ENC00169,positive
+11,ENI00029,cell of adrenal gland zona fasciculata,ENR00761,ENC00169,positive
+12,ENI00031,cell of adrenal gland zona fasciculata,ENR00761,ENC00169,unknown
+13,ENI00037,cell of adrenal gland zona glomerulosa,ENR00789,ENC00168,unknown
+14,ENI00038,cell of adrenal gland zona glomerulosa,ENR00788,ENC00168,unknown
+15,ENI00042,Sertoli cell,ENR00788,ENC00119,unknown
+16,ENI00044,acidophil somatotroph cell of anterior pituitary,ENR00574,ENC00002,positive
+17,ENI00046,arcuate nucleus of hypothalamus,ENR00976,ENC00189,negative
+18,ENI00047,basophil gonadotroph cell of anterior pituitary FSH,ENR00977,ENC00003,negative
+19,ENI00048,arcuate nucleus of hypothalamus,ENR00767,ENC00189,no
+20,ENI00050,cell of adrenal gland zona reticularis,ENR00761,ENC00157,unknown
+21,ENI00051,cell of adrenal gland zona reticularis,ENR00761,ENC00157,unknown
+22,ENI00052,cell of adrenal gland zona reticularis,ENR00761,ENC00157,unknown
+23,ENI00053,cell of adrenal gland zona reticularis,ENR00864,ENC00157,unknown
+24,ENI00054,cell of adrenal gland zona reticularis,ENR00864,ENC00157,unknown
+25,ENI00055,cell of adrenal gland zona reticularis,ENR00864,ENC00157,unknown
+26,ENI00056,cell of adrenal gland zona fasciculata,ENR00864,ENC00169,unknown
+27,ENI00057,cell of adrenal gland zona fasciculata,ENR00864,ENC00169,unknown
+28,ENI00058,cell of adrenal gland zona fasciculata,ENR00864,ENC00169,unknown
+29,ENI00059,beta cell of islet of Langerhans,ENR00978,ENC00174,positive
+30,ENI00060,acidophil mammotroph cell of anterior pituitary,ENR00817,ENC00001,negative
+31,ENI00061,paraventricular nucleus of hypothalamus,ENR00659,ENC00025,negative
+32,ENI00062,paraventricular nucleus of hypothalamus,ENR00982,ENC00025,negative
+33,ENI00063,paraventricular nucleus of hypothalamus,ENR00984,ENC00025,negative
+34,ENI00067,acidophil somatotroph cell of anterior pituitary,ENR00865,ENC00002,negative
+35,ENI00068,acidophil somatotroph cell of anterior pituitary,ENR00738,ENC00002,negative
+36,ENI00069,acidophil somatotroph cell of anterior pituitary,ENR00936,ENC00002,positive
+37,ENI00070,basophil corticotroph cell of anterior pituitary,ENR00935,ENC00176,positive
+38,ENI00071,basophil thyrotroph cell of anterior pituitary,ENR00738,ENC00177,negative
+39,ENI00072,basophil thyrotroph cell of anterior pituitary,ENR00739,ENC00177,negative
+40,ENI00073,acidophil somatotroph cell of anterior pituitary,ENR00739,ENC00002,negative
+41,ENI00074,arcuate nucleus of hypothalamus,ENR00979,ENC00189,negative
+42,ENI00075,fat cell,ENR00935,ENC00004,negative
+43,ENI00078,arcuate nucleus of hypothalamus,ENR00905,ENC00189,negative
+44,ENI00079,arcuate nucleus of hypothalamus,ENR00906,ENC00189,negative
+45,ENI00080,basophil corticotroph cell of anterior pituitary,ENR00744,ENC00176,positive
+46,ENI00081,fat cell,ENR00873,ENC00004,positive
+47,ENI00083,arcuate nucleus of hypothalamus,ENR00263,ENC00189,positive
+48,ENI00084,arcuate nucleus of hypothalamus,ENR00263,ENC00189,positive
+49,ENI00085,arcuate nucleus of hypothalamus,ENR00979,ENC00189,negative
+50,ENI00086,arcuate nucleus of hypothalamus,ENR00979,ENC00189,positive
+51,ENI00087,adipose tissue,ENR00118,ENC00005,unknown
+52,ENI00089,osteoblast,ENR00664,ENC00093,positive
+53,ENI00090,kidney,ENR00999,ENC00063,positive
+54,ENI00091,chief cell of parathyroid gland,ENR00664,ENC00253,negative
+55,ENI00092,adrenal cortex,ENR00663,ENC00007,positive
+56,ENI00093,cell of adrenal gland zona glomerulosa,ENR00781,ENC00168,positive
+57,ENI00094,cell of adrenal gland zona glomerulosa,ENR00808,ENC00168,positive
+58,ENI00095,cell of adrenal gland zona glomerulosa,ENR00761,ENC00168,positive
+59,ENI00096,pineal cell,ENR00805,ENC00110,positive
+60,ENI00097,cell of adrenal gland zona glomerulosa,ENR00361,ENC00168,positive
+61,ENI00098,cell of adrenal gland zona fasciculata,ENR00361,ENC00169,positive
+62,ENI00099,cell of endometrium of uterus,ENR00085,ENC00037,negative
+63,ENI00100,cell of endometrium of uterus,ENR00704,ENC00037,positive
+64,ENI00101,cell of endometrium of uterus,ENR00085,ENC00037,positive
+65,ENI00102,cell of endometrium of uterus,ENR00835,ENC00037,positive
+66,ENI00103,cell of endometrium of uterus,ENR00835,ENC00037,positive
+67,ENI00104,cell of endometrium of uterus,ENR00835,ENC00037,negative
+68,ENI00105,cell of endometrium of uterus,ENR00861,ENC00037,positive
+69,ENI00106,cell of endometrium of uterus,ENR00861,ENC00037,positive
+70,ENI00107,cell of endometrium of uterus,ENR00979,ENC00037,positive
+71,ENI00108,fat cell,ENR00935,ENC00004,positive
+72,ENI00109,fat cell,ENR00935,ENC00004,positive
+73,ENI00110,hepatocyte,ENR01005,ENC00249,positive
+74,ENI00111,hepatocyte,ENR00864,ENC00249,positive
+75,ENI00112,bronchi,ENR01006,ENC00234,positive
+76,ENI00113,bronchi,ENR01006,ENC00234,positive
+77,ENI00114,folliculostellate cell,ENR00811,ENC00316,positive
+78,ENI00115,acidophil mammotroph cell of anterior pituitary,ENR00079,ENC00001,positive
+79,ENI00116,osteoblast,ENR00664,ENC00093,positive
+80,ENI00117,osteoblast,ENR00999,ENC00093,positive
+81,ENI00118,hematopoietic stem cell,ENR00999,ENC00318,positive
+82,ENI00119,hematopoietic stem cell,ENR00664,ENC00318,positive
+83,ENI00120,osteoblast,ENR00999,ENC00093,positive
+84,ENI00121,stromal cell of bone marrow,ENR00999,ENC00320,positive
+85,ENI00122,stromal cell of bone marrow,ENR00999,ENC00320,positive
+86,ENI00123,osteoblast,ENR00663,ENC00093,positive
+87,ENI00124,osteoblast,ENR00663,ENC00093,negative
+88,ENI00125,osteoblast,ENR00663,ENC00093,positive
+89,ENI00126,osteoblast,ENR00663,ENC00093,positive
+90,ENI00127,osteoblast,ENR00999,ENC00093,positive
+91,ENI00128,osteoblast,ENR00730,ENC00093,positive
+92,ENI00129,osteoblast,ENR00731,ENC00093,positive
+93,ENI00130,osteoblast,ENR00614,ENC00093,negative
+94,ENI00131,osteoblast,ENR00614,ENC00093,negative
+95,ENI00132,osteoblast,ENR00999,ENC00093,positive
+96,ENI00133,osteoblast,ENR00730,ENC00093,positive
+97,ENI00134,osteoblast,ENR00731,ENC00093,positive
+98,ENI00135,osteoblast,ENR00806,ENC00093,positive
+99,ENI00136,osteoblast,ENR00806,ENC00093,positive
+100,ENI00138,osteoblast,ENR00960,ENC00093,positive
+101,ENI00140,osteoblast,ENR00960,ENC00093,positive
+102,ENI00141,beta cell of islet of Langerhans,ENR00579,ENC00174,positive
+103,ENI00142,beta cell of islet of Langerhans,ENR00804,ENC00174,negative
+104,ENI00143,D cell,ENR00737,ENC00179,negative
+105,ENI00144,D cell,ENR00738,ENC00179,negative
+106,ENI00145,D cell,ENR00920,ENC00179,negative
+107,ENI00146,D cell,ENR00739,ENC00179,negative
+108,ENI00147,beta cell of islet of Langerhans,ENR00956,ENC00174,negative
+109,ENI00148,beta cell of islet of Langerhans,ENR00737,ENC00174,negative
+110,ENI00149,beta cell of islet of Langerhans,ENR00738,ENC00174,negative
+111,ENI00150,beta cell of islet of Langerhans,ENR00920,ENC00174,negative
+112,ENI00151,beta cell of islet of Langerhans,ENR00739,ENC00174,negative
+113,ENI00152,beta cell of islet of Langerhans,ENR00921,ENC00174,negative
+114,ENI00154,alpha cell of islet of Langerhans,ENR00738,ENC00180,negative
+115,ENI00155,alpha cell of islet of Langerhans,ENR00920,ENC00180,negative
+116,ENI00156,alpha cell of islet of Langerhans,ENR00739,ENC00180,negative
+117,ENI00157,alpha cell of islet of Langerhans,ENR00935,ENC00180,negative
+118,ENI00158,peritoneal mesothelial cell,ENR00979,ENC00384,positive
+119,ENI00159,arcuate nucleus of hypothalamus,ENR00935,ENC00189,negative
+120,ENI00160,arcuate nucleus of hypothalamus,ENR00935,ENC00189,negative
+121,ENI00161,cell of endometrium of uterus,ENR00704,ENC00037,positive
+122,ENI00162,cell of endometrium of uterus,ENR00905,ENC00037,positive
+123,ENI00163,osteoblast,ENR00704,ENC00093,positive
+124,ENI00164,osteoblast,ENR00905,ENC00093,positive
+125,ENI00165,osteoblast,ENR00704,ENC00093,positive
+126,ENI00166,osteoblast,ENR00905,ENC00093,positive
+127,ENI00167,Kupffer cell stellate cell of liver,ENR00843,ENC00273,positive
+128,ENI00168,Kupffer cell stellate cell of liver,ENR00843,ENC00273,positive
+129,ENI00171,lipocyte of liver,ENR00643,ENC00424,positive
+130,ENI00172,peripheral blood mononuclear cell (PBMC),ENR00841,ENC00426,positive
+131,ENI00173,gonadotropin releasing hormone neuron,ENR01089,ENC00444,positive
+132,ENI00174,arcuate nucleus of hypothalamus,ENR00704,ENC00189,negative
+133,ENI00175,arcuate nucleus of hypothalamus,ENR00905,ENC00189,negative
+134,ENI00176,arcuate nucleus of hypothalamus,ENR00976,ENC00189,negative
+135,ENI00177,hair follicle,ENR00941,ENC00210,positive
+136,ENI00178,macrophage,ENR00843,ENC00216,positive
+137,ENI00179,macrophage,ENR00843,ENC00216,positive
+138,ENI00180,monocyte,ENR00706,ENC00247,positive
+139,ENI00181,monocyte,ENR00707,ENC00247,positive
+140,ENI00182,macrophage,ENR00717,ENC00216,positive
+141,ENI00183,macrophage,ENR00715,ENC00216,positive
+142,ENI00184,monocyte,ENR00715,ENC00247,positive
+143,ENI00185,monocyte,ENR00717,ENC00247,positive
+144,ENI00186,monocyte,ENR00655,ENC00247,positive
+145,ENI00187,mesangium,ENR00655,ENC00449,positive
+146,ENI00188,neutrophil granulocyte,ENR00619,ENC00217,negative
+147,ENI00189,neutrophil granulocyte,ENR00930,ENC00217,positive
+148,ENI00190,neutrophil granulocyte,ENR00717,ENC00217,positive
+149,ENI00191,dendritic cell in lymphoid tissues,ENR00842,ENC00228,positive
+150,ENI00192,dendritic cell in lymphoid tissues,ENR00591,ENC00228,positive
+151,ENI00193,dendritic cell in lymphoid tissues,ENR00590,ENC00228,positive
+152,ENI00194,dendritic cell in lymphoid tissues,ENR00842,ENC00228,positive
+153,ENI00195,dendritic cell in lymphoid tissues,ENR00591,ENC00228,positive
+154,ENI00196,dendritic cell in lymphoid tissues,ENR00590,ENC00228,positive
+155,ENI00197,dendritic cell in lymphoid tissues,ENR00843,ENC00228,positive
+156,ENI00198,epithelial cell,ENR01075,ENC00244,positive
+157,ENI00199,epithelial cell with microvilli,ENR01075,ENC00450,positive
+158,ENI00200,epithelial cell with microvilli,ENR00930,ENC00450,positive
+159,ENI00201,stromal fibroblast,ENR00843,ENC00452,positive
+160,ENI00202,bronchial epithelial cell,ENR00861,ENC00364,positive
+161,ENI00203,epithelial cell with microvilli,ENR00861,ENC00450,positive
+162,ENI00204,epithelial cell with microvilli,ENR00717,ENC00450,positive
+163,ENI00205,epithelial cell with microvilli,ENR00717,ENC00450,positive
+164,ENI00206,monocyte,ENR00707,ENC00247,positive
+165,ENI00207,monocyte,ENR00731,ENC00247,negative
+166,ENI00208,monocyte,ENR00731,ENC00247,negative
+167,ENI00209,monocyte,ENR00729,ENC00247,negative
+168,ENI00210,monocyte,ENR00619,ENC00247,negative
+169,ENI00211,monocyte,ENR01101,ENC00247,negative
+170,ENI00212,monocyte,ENR01101,ENC00247,negative
+171,ENI00213,monocyte,ENR01101,ENC00247,negative
+172,ENI00214,monocyte,ENR01101,ENC00247,negative
+173,ENI00215,monocyte,ENR00619,ENC00247,negative
+174,ENI00216,monocyte,ENR00707,ENC00247,negative
+175,ENI00217,monocyte,ENR00619,ENC00247,negative
+176,ENI00218,monocyte,ENR00619,ENC00247,negative
+177,ENI00219,helper T cell Th1,ENR00147,ENC00288,positive
+178,ENI00220,B-lymphocyte,ENR01101,ENC00233,positive
+179,ENI00221,mast cell,ENR01112,ENC00078,positive
+180,ENI00222,helper T cell Th1,ENR01176,ENC00288,positive
+181,ENI00223,alpha cell of islet of Langerhans,ENR00781,ENC00180,positive
+182,ENI00228,bronchial epithelial cell,ENR00843,ENC00364,positive
+183,ENI00229,hepatocyte,ENR00691,ENC00249,positive
+184,ENI00231,hepatocyte,ENR01078,ENC00249,positive
+185,ENI00234,Kupffer cell stellate cell of liver,ENR00843,ENC00273,positive
+186,ENI00235,T-lymphocyte,ENR01176,ENC00287,positive
+187,ENI00236,killer cell,ENR00839,ENC00292,positive
+188,ENI00237,hepatocyte,ENR00982,ENC00249,positive
+189,ENI00238,hepatocyte,ENR00659,ENC00249,positive
+190,ENI00239,hepatocyte,ENR00901,ENC00249,positive
+191,ENI00240,hepatocyte,ENR01078,ENC00249,positive
+192,ENI00241,hepatocyte,ENR01077,ENC00249,negative
+193,ENI00242,lipocyte of liver,ENR00808,ENC00424,negative
+194,ENI00243,lipocyte of liver,ENR00808,ENC00424,unknown
+195,ENI00244,propria mucosa of bronchus,ENR00834,ENC00379,positive
+196,ENI00249,pneumocyte type II,ENR00861,ENC00459,positive
+197,ENI00250,bronchial epithelial cell,ENR00861,ENC00364,positive
+198,ENI00251,bronchial epithelial cell,ENR00717,ENC00364,positive
+199,ENI00252,pneumocyte type II,ENR00861,ENC00459,positive
+200,ENI00253,pneumocyte type II,ENR00717,ENC00459,positive
+201,ENI00254,chief cell of parathyroid gland,ENR00785,ENC00253,negative
+202,ENI00255,chief cell of parathyroid gland,ENR00786,ENC00253,negative
+203,ENI00256,fat cell,ENR00118,ENC00005,no
+204,ENI00257,monocyte,ENR00118,ENC00247,positive
+205,ENI00258,monocyte,ENR00118,ENC00247,positive
+206,ENI00259,G cell,ENR00901,ENC00201,positive
+207,ENI00260,G cell,ENR00930,ENC00201,positive
+208,ENI00262,G cell,ENR01188,ENC00201,no
+209,ENI00263,D cell of gastrointestinal tract,ENR00781,ENC00198,positive
+210,ENI00264,digestive system,ENR00781,ENC00365,unknown
+211,ENI00265,enterochromaffin like cell,ENR00781,ENC00200,positive
+212,ENI00266,arcuate nucleus of hypothalamus,ENR00936,ENC00189,positive
+213,ENI00267,arcuate nucleus of hypothalamus,ENR00936,ENC00189,positive
+214,ENI00268,arcuate nucleus of hypothalamus,ENR00824,ENC00189,negative
+215,ENI00269,arcuate nucleus of hypothalamus,ENR00824,ENC00189,negative
+216,ENI00270,arcuate nucleus of hypothalamus,ENR00935,ENC00189,positive
+217,ENI00271,fat cell,ENR00806,ENC00004,negative
+218,ENI00272,fat cell,ENR00805,ENC00004,negative
+219,ENI00273,fat cell,ENR00806,ENC00004,negative
+220,ENI00274,fat cell,ENR00118,ENC00005,positive
+221,ENI00275,paraventricular nucleus of hypothalamus,ENR00979,ENC00025,positive
+222,ENI00276,fat cell,ENR01205,ENC00004,positive
+223,ENI00277,preadipocyte,ENR00979,ENC00542,positive
+224,ENI00279,mast cell,ENR00941,ENC00078,positive
+225,ENI00280,Purkinje cell,ENR00825,ENC00050,negative
+226,ENI00281,reticular part of substantia nigra,ENR00825,ENC00553,negative
+227,ENI00282,cerebellum,ENR00825,ENC00267,negative
+228,ENI00283,cerebellum,ENR00825,ENC00262,negative
+229,ENI00284,cerebellum,ENR00825,ENC00262,negative
+230,ENI00285,arcuate nucleus of hypothalamus,ENR00935,ENC00189,unknown
+231,ENI00286,basophil thyrotroph cell of anterior pituitary,ENR00079,ENC00177,positive
+232,ENI00287,macrophage,ENR01305,ENC00216,positive
+233,ENI00288,hippocampus,ENR00361,ENC00050,positive
+234,ENI00289,hepatocyte,ENR01177,ENC00249,negative
+235,ENI00290,hepatocyte,ENR01177,ENC00249,negative
+236,ENI00291,brain,ENR01126,ENC00020,positive
+237,ENI00292,brain,ENR01126,ENC00020,positive
+238,ENI00293,lymphocyte,ENR01206,ENC00276,negative
+239,ENI00294,melanocyte,ENR00704,ENC00003,no
+240,ENI00295,melanocyte,ENR00942,ENC00003,positive
+241,ENI00296,basophil gonadotroph cell of anterior pituitary FSH,ENR00704,ENC00003,no
+242,ENI00299,chromaffin cell,ENR00726,ENC00011,positive
+243,ENI00300,chromaffin cell,ENR00823,ENC00011,positive
+244,ENI00301,chromaffin cell,ENR00727,ENC00011,positive
+245,ENI00302,chromaffin cell,ENR00728,ENC00011,positive
+246,ENI00303,chromaffin cell,ENR00917,ENC00011,positive
+247,ENI00304,continuous vascular endothelial cell of blood vessels and lymphatics,ENR00865,ENC00231,positive
+248,ENI00305,continuous vascular endothelial cell of blood vessels and lymphatics,ENR00935,ENC00231,positive
+249,ENI00306,hippocampus,ENR00827,ENC00050,positive
+250,ENI00307,cerebellar cortex,ENR00827,ENC00487,positive
+251,ENI00308,hepatocyte,ENR01310,ENC00249,positive
+252,ENI00309,hepatocyte,ENR01310,ENC00249,positive
+253,ENI00310,prostate,ENR01002,ENC00115,positive
+254,ENI00311,beta cell of islet of Langerhans,ENR01150,ENC00174,positive
+255,ENI00312,macrophage,ENR01311,ENC00216,positive
+256,ENI00313,hepatocyte,ENR00901,ENC00249,positive
+257,ENI00314,beta cell of islet of Langerhans,ENR00935,ENC00174,positive
+258,ENI00315,mammary gland,ENR01188,ENC00076,negative
+259,ENI00316,mammary gland,ENR01188,ENC00076,negative
+260,ENI00317,arcuate nucleus of hypothalamus,ENR00979,ENC00189,positive
+261,ENI00318,hippocampus,ENR01312,ENC00050,positive
+262,ENI00319,beta cell of islet of Langerhans,ENR00935,ENC00174,unknown
+263,ENI00320,macrophage,ENR00841,ENC00460,unknown
+264,ENI00321,hepatocyte,ENR01162,ENC00249,negative
+265,ENI00322,fat cell of white fat,ENR00807,ENC00004,positive
+266,ENI00323,gonadotropin releasing hormone neuron,ENR00816,ENC00361,positive
+267,ENI00324,parathyroid gland,ENR01188,ENC00407,negative
+268,ENI00325,cell of intermediate pituitary,ENR00760,ENC00082,unknown
+269,ENI00326,cell of intermediate pituitary,ENR00760,ENC00125,unknown
+270,ENI00327,cell of intermediate pituitary,ENR00816,ENC00361,unknown
+271,ENI00328,basophil granulocyte,ENR01111,ENC00251,positive
+272,ENI00329,beta cell of islet of Langerhans,ENR01188,ENC00174,positive
+273,ENI00330,dendritic cell in lymphoid tissues,ENR00842,ENC00228,positive
+274,ENI00331,macrophage,ENR01080,ENC00216,positive
+275,ENI00332,hepatocyte,ENR01077,ENC00249,positive
+276,ENI00333,hepatocyte,ENR01076,ENC00249,positive
+277,ENI00335,hypothalamus,ENR00939,ENC00361,positive
+278,ENI00336,cell of intermediate pituitary,ENR01188,ENC00076,positive
+279,ENI00337,paraventricular nucleus of hypothalamus,ENR00979,ENC00025,positive
+280,ENI00338,granulosa cell,ENR00789,ENC00044,negative
+281,ENI00339,lung,ENR00865,ENC00074,positive
+282,ENI00341,beta cell of islet of Langerhans,ENR00747,ENC00102,unknown
+283,ENI00342,intestinal smooth muscle cell,ENR01313,ENC00060,positive
+284,ENI00343,beta cell of islet of Langerhans,ENR00730,ENC00174,negative
+285,ENI00344,continuous vascular endothelial cell of blood vessels and lymphatics,ENR00668,ENC00518,positive
+286,ENI00345,continuous vascular endothelial cell of blood vessels and lymphatics,ENR00669,ENC00231,positive
+287,ENI00346,adrenal cortex,ENR00741,ENC00007,positive
+288,ENI00347,parathyroid gland,ENR00861,ENC00407,negative
+289,ENI00348,parathyroid gland,ENR00864,ENC00407,negative
+290,ENI00349,adipose tissue,ENR00761,ENC00005,positive
+291,ENI00350,adipose tissue,ENR00764,ENC00005,positive
+292,ENI00351,pituitary gland of diencephalon,ENR00739,ENC00053,negative
+293,ENI00352,beta cell of islet of Langerhans,ENR00807,ENC00174,positive
+294,ENI00353,pituitary gland of diencephalon,ENR00738,ENC00053,negative
+295,ENI00354,pituitary gland of diencephalon,ENR00739,ENC00053,negative
+296,ENI00355,arcuate nucleus of hypothalamus,ENR00979,ENC00189,negative
+297,ENI00356,supra-optic nucleus,ENR00984,ENC00025,positive
+298,ENI00357,paraventricular nucleus of hypothalamus,ENR00984,ENC00025,negative
+299,ENI00358,chromaffin cell,ENR00979,ENC00025,negative
+300,ENI00359,paraventricular nucleus of hypothalamus,ENR00691,ENC00361,negative
+301,ENI00360,cell of intermediate pituitary,ENR00965,ENC00053,negative
+302,ENI00361,macrophage,ENR00843,ENC00216,positive
+303,ENI00362,macrophage,ENR00589,ENC00216,positive
+304,ENI00363,macrophage,ENR00590,ENC00216,positive
+305,ENI00364,macrophage,ENR00591,ENC00216,positive
+306,ENI00365,macrophage,ENR00592,ENC00216,positive
+307,ENI00366,macrophage,ENR00703,ENC00216,positive
+308,ENI00367,macrophage,ENR00841,ENC00216,positive
+309,ENI00368,macrophage,ENR00842,ENC00216,positive
+310,ENI00369,macrophage,ENR00844,ENC00216,positive
+311,ENI00370,macrophage,ENR00931,ENC00216,positive
+312,ENI00373,continuous vascular endothelial cell of blood vessels and lymphatics,ENR01265,ENC00231,positive
+313,ENI00379,continuous vascular endothelial cell of blood vessels and lymphatics,ENR01265,ENC00231,positive
+314,ENI00382,continuous vascular endothelial cell of blood vessels and lymphatics,ENR01265,ENC00231,positive
+315,ENI00383,pancreas,ENR00780,ENC00102,positive
+316,ENI00384,arcuate nucleus of hypothalamus,ENR00824,ENC00361,negative
+317,ENI00385,beta cell of islet of Langerhans,ENR01315,ENC00174,negative
+318,ENI00386,beta cell of islet of Langerhans,ENR01315,ENC00174,positive
+319,ENI00387,adipose tissue,ENR00763,ENC00005,negative
+320,ENI00388,hypothalamus,ENR00085,ENC00361,positive
+321,ENI00389,pituitary gland of diencephalon,ENR00079,ENC00053,positive
+322,ENI00390,mast cell,ENR00941,ENC00078,positive
+323,ENI00391,fibroblast,ENR00905,ENC00283,positive
+324,ENI00392,hypothalamus,ENR00836,ENC00361,negative
+325,ENI00393,pituitary gland of diencephalon,ENR00836,ENC00053,positive
+326,ENI00394,acidophil mammotroph cell of anterior pituitary,ENR00681,ENC00001,positive
+327,ENI00395,acidophil somatotroph cell of anterior pituitary,ENR00681,ENC00002,positive
+328,ENI00396,basophil corticotroph cell of anterior pituitary,ENR00681,ENC00176,positive
+329,ENI00397,basophil gonadotroph cell of anterior pituitary FSH,ENR00681,ENC00003,negative
+330,ENI00398,basophil gonadotroph cell of anterior pituitary FSH,ENR00681,ENC00003,negative
+331,ENI00399,granulosa cell,ENR01027,ENC00044,negative
+332,ENI00400,granulosa cell,ENR01027,ENC00044,positive
+333,ENI00401,beta cell of islet of Langerhans,ENR00664,ENC00174,positive
+334,ENI00402,beta cell of islet of Langerhans,ENR00901,ENC00174,positive
+335,ENI00403,adipose tissue,ENR00118,ENC00005,negative
+336,ENI00404,adipose tissue,ENR00806,ENC00005,negative
+337,ENI00405,adipose tissue,ENR00985,ENC00005,negative
+338,ENI00406,fat cell of brown fat,ENR00263,ENC00479,positive
+339,ENI00407,granulosa cell,ENR00789,ENC00044,positive
+340,ENI00408,basophil thyrotroph cell of anterior pituitary,ENR00058,ENC00177,negative
+341,ENI00409,adipose tissue,ENR00979,ENC00005,negative
+342,ENI00410,adipose tissue,ENR01205,ENC00005,negative
+343,ENI00411,kidney,ENR00808,ENC00580,positive
+344,ENI00412,kidney,ENR00808,ENC00283,positive
+345,ENI00413,fibroblast,ENR00808,ENC00283,positive
+346,ENI00414,proximal tubule of nephron,ENR00808,ENC00580,positive
+347,ENI00415,Goormaghtighs cell,ENR01188,ENC00457,negative
+348,ENI00417,Goormaghtighs cell,ENR00805,ENC00063,positive
+349,ENI00418,stomach,ENR00957,ENC00132,positive
+350,ENI00419,kidney,ENR01062,ENC00063,positive
+351,ENI00420,G cell,ENR00781,ENC00198,negative
+352,ENI00421,ovary,ENR00808,ENC00097,unknown
+353,ENI00422,kidney,ENR01062,ENC00063,positive
+354,ENI00423,hepatocyte,ENR00808,ENC00249,positive
+355,ENI00424,lateral hypothalamic area,ENR00993,ENC00191,no
+356,ENI00425,lateral hypothalamic area,ENR00993,ENC00191,positive
+357,ENI00426,empty0,empty0,empty0,empty0
+358,ENI00427,lateral hypothalamic area,ENR01205,ENC00361,negative
+359,ENI00428,lateral hypothalamic area,ENR00939,ENC00361,positive
+360,ENI00429,lipocyte of liver,ENR00717,ENC00424,positive
+361,ENI00430,lipocyte of liver,ENR00679,ENC00424,positive
+362,ENI00431,lipocyte of liver,ENR00861,ENC00424,positive
+363,ENI00432,lipocyte of liver,ENR00715,ENC00424,positive
+364,ENI00433,lipocyte of liver,ENR00837,ENC00424,positive
+365,ENI00434,hepatocyte,ENR00717,ENC00249,positive
+366,ENI00435,hepatocyte,ENR00679,ENC00249,positive
+367,ENI00436,hepatocyte,ENR00717,ENC00249,positive
+368,ENI00437,hepatocyte,ENR00930,ENC00249,positive
+369,ENI00438,hepatocyte,ENR00930,ENC00249,positive
+370,ENI00439,hepatocyte,ENR00717,ENC00249,positive
+371,ENI00440,hepatocyte,ENR00679,ENC00249,positive
+372,ENI00441,hepatocyte,ENR00679,ENC00249,positive
+373,ENI00442,hepatocyte,ENR00717,ENC00249,positive
+374,ENI00443,hepatocyte,ENR00679,ENC00249,positive
+375,ENI00444,lateral hypothalamic area,ENR00691,ENC00361,negative
+376,ENI00445,arcuate nucleus of hypothalamus,ENR00936,ENC00189,negative
+377,ENI00446,killer cell,ENR00274,ENC00228,positive
+378,ENI00447,killer cell,ENR00274,ENC00216,positive
+379,ENI00448,killer cell,ENR00274,ENC00228,positive
+380,ENI00449,killer cell,ENR00274,ENC00216,positive
+381,ENI00450,bone,ENR00664,ENC00382,positive
+382,ENI00451,bone,ENR00664,ENC00093,positive
+383,ENI00452,adipose tissue,ENR00717,ENC00005,positive
+384,ENI00453,adipose tissue,ENR00679,ENC00005,positive
+385,ENI00454,kidney,ENR00664,ENC00063,negative
+386,ENI00455,paraventricular nucleus of hypothalamus,ENR00941,ENC00025,positive
+387,ENI00456,paraventricular nucleus of hypothalamus,ENR00691,ENC00361,negative
+388,ENI00457,neurohypophysis,ENR00941,ENC00020,positive
+389,ENI00458,beta cell of islet of Langerhans,ENR00965,ENC00582,negative
+390,ENI00459,basophil gonadotroph cell of anterior pituitary FSH,ENR00093,ENC00003,negative
+391,ENI00460,basophil gonadotroph cell of anterior pituitary FSH,ENR00976,ENC00003,negative
+392,ENI00461,basophil gonadotroph cell of anterior pituitary FSH,ENR00942,ENC00003,positive
+393,ENI00462,basophil gonadotroph cell of anterior pituitary FSH,ENR00942,ENC00003,positive
+394,ENI00463,basophil gonadotroph cell of anterior pituitary FSH,ENR00724,ENC00003,positive
+395,ENI00464,basophil gonadotroph cell of anterior pituitary FSH,ENR00942,ENC00003,positive
+396,ENI00465,basophil gonadotroph cell of anterior pituitary FSH,ENR00724,ENC00003,positive
+397,ENI00466,basophil gonadotroph cell of anterior pituitary FSH,ENR00942,ENC00003,positive
+398,ENI00467,beta cell of islet of Langerhans,ENR00979,ENC00005,negative
+399,ENI00468,beta cell of islet of Langerhans,ENR00979,ENC00102,negative
+400,ENI00469,beta cell of islet of Langerhans,ENR00717,ENC00005,negative
+401,ENI00471,retina,ENR00668,ENC00231,negative
+402,ENI00473,beta cell of islet of Langerhans,ENR00263,ENC00102,positive
+403,ENI00474,granulosa cell,ENR00263,ENC00097,positive
+404,ENI00475,granulosa cell,ENR00263,ENC00044,negative
+405,ENI00476,cell of adrenal gland zona glomerulosa,ENR00759,ENC00009,positive
+406,ENI00477,Goormaghtighs cell,ENR00808,ENC00457,negative
+407,ENI00478,cell of adrenal gland zona glomerulosa,ENR01025,ENC00007,positive
+408,ENI00479,cell of adrenal gland zona glomerulosa,ENR01025,ENC00007,negative
+409,ENI00480,adrenal cortex,ENR01025,ENC00007,negative
+410,ENI00481,cell of adrenal gland zona glomerulosa,ENR01108,ENC00007,negative
+411,ENI00482,Goormaghtighs cell,ENR01108,ENC00063,negative
+412,ENI00483,cell of adrenal gland zona glomerulosa,ENR00817,ENC00168,negative
+413,ENI00484,cell of adrenal gland zona glomerulosa,ENR00784,ENC00168,negative
+414,ENI00485,thymic epithelial cell,ENR00263,ENC00528,positive
+415,ENI00486,pituitary gland of diencephalon,ENR01328,ENC00053,positive
+416,ENI00487,pituitary gland of diencephalon,ENR01328,ENC00053,negative
+417,ENI00488,pituitary gland of diencephalon,ENR01328,ENC00053,positive
+418,ENI00489,thymic epithelial cell,ENR01328,ENC00528,negative
+419,ENI00490,thymic epithelial cell,ENR00873,ENC00528,positive
+420,ENI00491,thymic epithelial cell,ENR00934,ENC00528,positive
+421,ENI00492,thymic epithelial cell,ENR00761,ENC00528,positive
+422,ENI00494,cell of adrenal gland zona glomerulosa,ENR00741,ENC00168,positive
+423,ENI00495,cell of adrenal gland zona glomerulosa,ENR00742,ENC00168,positive
+424,ENI00496,chromaffin cell,ENR00741,ENC00011,positive
+425,ENI00497,chromaffin cell,ENR00742,ENC00011,positive
+426,ENI00498,adrenal medulla,ENR00747,ENC00011,positive
+427,ENI00499,adrenal medulla,ENR00741,ENC00011,positive
+428,ENI00500,adrenal medulla,ENR00742,ENC00011,positive
+429,ENI00501,adrenal medulla,ENR00747,ENC00011,positive
+430,ENI00502,adrenal medulla,ENR00741,ENC00011,positive
+431,ENI00503,adrenal medulla,ENR00742,ENC00011,positive
+432,ENI00504,adrenal medulla,ENR00747,ENC00011,positive
+433,ENI00505,adrenal medulla,ENR00741,ENC00011,positive
+434,ENI00506,adrenal medulla,ENR00742,ENC00011,positive
+435,ENI00507,Leydig cell of testis,ENR00761,ENC00140,positive
+436,ENI00508,nerve,ENR00825,ENC00009,negative
+437,ENI00509,adrenal medulla,ENR00825,ENC00009,negative
+438,ENI00510,raphe nuclei of pontile tegmentum,ENR00825,ENC00487,negative
+439,ENI00511,APUD amine precursor uptake and decarboxylation cell,ENR00825,ENC00009,negative
+440,ENI00512,continuous vascular endothelial cell of blood vessels and lymphatics,ENR00777,ENC00005,positive
+441,ENI00513,macrophage,ENR01070,ENC00020,positive
+442,ENI00514,fat cell,ENR01156,ENC00217,positive
+443,ENI00515,dendritic cell in lymphoid tissues,ENR01156,ENC00217,positive
+444,ENI00516,cell of adrenal gland zona glomerulosa,ENR00780,ENC00168,positive
+445,ENI00517,basophil gonadotroph cell of anterior pituitary FSH,ENR01308,ENC00003,positive
+446,ENI00518,cell of intermediate pituitary,ENR00817,ENC00178,negative
+447,ENI00519,cell of intermediate pituitary,ENR00079,ENC00178,positive
+448,ENI00520,compact part of substantia nigra,ENR00797,ENC00556,unknown
+449,ENI00521,reticular part of substantia nigra,ENR00797,ENC00134,positive
+450,ENI00522,amygdaloid body,ENR01012,ENC00182,positive
+451,ENI00523,amygdaloid body,ENR00822,ENC00182,negative
+452,ENI00524,posterior raphe nucleus of midbrain,ENR00822,ENC00585,negative
+453,ENI00525,hippocampus,ENR01012,ENC00050,positive
+454,ENI00526,hippocampus,ENR01012,ENC00050,unknown
+455,ENI00527,nucleus accumbens,ENR01012,ENC00275,positive
+456,ENI00528,cerebral cortex,ENR01012,ENC00275,negative
+457,ENI00529,corpus striatum,ENR01012,ENC00161,positive
+458,ENI00530,hippocampus,ENR00751,ENC00050,positive
+459,ENI00531,frontal lobe,ENR00751,ENC00275,negative
+460,ENI00532,frontal lobe,ENR00751,ENC00275,negative
+461,ENI00533,cerebral cortex,ENR00751,ENC00275,negative
+462,ENI00534,hippocampus,ENR00784,ENC00050,positive
+463,ENI00535,cerebral cortex,ENR00361,ENC00275,positive
+464,ENI00536,cerebral cortex,ENR00795,ENC00275,positive
+465,ENI00537,cerebral cortex,ENR00796,ENC00275,positive
+466,ENI00538,cerebral cortex,ENR00797,ENC00275,positive
+467,ENI00539,corpus striatum,ENR00817,ENC00556,negative
+468,ENI00540,nucleus accumbens,ENR00361,ENC00161,positive
+469,ENI00541,acidophil somatotroph cell of anterior pituitary,ENR00979,ENC00002,positive
+470,ENI00542,umbilical vein endothelial cells,ENR01205,ENC00231,positive
+471,ENI00543,central nerve system element,ENR00802,ENC00181,negative
+472,ENI00544,central nerve system element,ENR00803,ENC00181,negative
+473,ENI00545,central nerve system element,ENR00804,ENC00181,negative
+474,ENI00546,cerebral cortex,ENR00802,ENC00181,negative
+475,ENI00547,cerebral cortex,ENR00803,ENC00181,negative
+476,ENI00548,cerebral cortex,ENR00804,ENC00181,negative
+477,ENI00549,hypothalamus,ENR00962,ENC00361,positive
+478,ENI00550,beta cell of islet of Langerhans,ENR00806,ENC00174,positive
+479,ENI00551,mast cell,ENR00806,ENC00078,negative
+480,ENI00552,theca cell,ENR00704,ENC00246,negative
+481,ENI00553,theca cell,ENR00905,ENC00246,negative
+482,ENI00554,pituitary gland of diencephalon,ENR00093,ENC00053,negative
+483,ENI00555,adipose tissue,ENR00704,ENC00022,negative
+484,ENI00556,adipose tissue,ENR00905,ENC00022,negative
+485,ENI00557,placenta,ENR00704,ENC00112,positive
+486,ENI00558,theca cell,ENR00905,ENC00167,negative
+487,ENI00559,theca cell,ENR00905,ENC00167,negative
+488,ENI00560,bronchial epithelial cell,ENR00755,ENC00074,positive
+489,ENI00561,kidney,ENR01317,ENC00063,unknown
+490,ENI00562,acidophil somatotroph cell of anterior pituitary,ENR00936,ENC00361,positive
+491,ENI00563,acidophil mammotroph cell of anterior pituitary,ENR00936,ENC00053,positive
+492,ENI00564,osteoblast,ENR00061,ENC00093,positive
+493,ENI00565,osteoblast,ENR00960,ENC00093,positive
+494,ENI00566,osteoblast,ENR00061,ENC00093,positive
+495,ENI00567,alpha cell of islet of Langerhans,ENR00579,ENC00180,negative
+496,ENI00568,stomach,ENR00228,ENC00132,positive
+497,ENI00569,fat cell,ENR01211,ENC00152,negative
+498,ENI00571,Leydig cell of testis,ENR01338,ENC00067,positive
+499,ENI00572,basophil gonadotroph cell of anterior pituitary FSH,ENR01056,ENC00053,negative
+500,ENI00573,basophil gonadotroph cell of anterior pituitary FSH,ENR01056,ENC00053,negative
+501,ENI00574,gonadotropin releasing hormone neuron,ENR01056,ENC00361,negative
+502,ENI00575,hypothalamus,ENR00816,ENC00361,positive
+503,ENI00576,chondrocyte,ENR01090,ENC00250,positive
+504,ENI00577,chondrocyte,ENR01090,ENC00250,positive
+505,ENI00578,cell of adrenal gland zona glomerulosa,ENR01054,ENC00168,positive
+506,ENI00579,basophil thyrotroph cell of anterior pituitary,ENR00958,ENC00177,negative
+507,ENI00580,basophil thyrotroph cell of anterior pituitary,ENR00079,ENC00177,negative
+508,ENI00581,liver,ENR01078,ENC00249,positive
+509,ENI00582,D cell,ENR00780,ENC00179,positive
+510,ENI00583,cell of endometrium of uterus,ENR01347,ENC00037,positive
+511,ENI00584,hepatocyte,ENR00691,ENC00249,negative
+512,ENI00585,hepatocyte,ENR00704,ENC00578,positive
+513,ENI00586,keratinocyte,ENR00664,ENC00222,positive
+514,ENI00587,hepatocyte,ENR00864,ENC00249,positive
+515,ENI00588,epithelial cell with microvilli,ENR00864,ENC00450,positive
+516,ENI00589,liver,ENR00864,ENC00249,positive
+517,ENI00590,continuous vascular endothelial cell of blood vessels and lymphatics,ENR00935,ENC00231,unknown
