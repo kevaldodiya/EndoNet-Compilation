@@ -1,0 +1,2 @@
+# EndoNet-Compilation
+EndoNet have an information of the endocrine system in human(\cite{endonet}). It is inter-cellular network. It includes information about hormones, receptors and cells, furthermore it has relation like binding of a hormone to receptor, transportation medium etc. Main thing is this whole data manually annotated from scientific literature. Web version of this dataset can be found at  http://endonet.sybig.de/
